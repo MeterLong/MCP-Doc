@@ -1,5 +1,6 @@
 # Docx MCP Service
 
+[![smithery badge](https://smithery.ai/badge/@MeterLong/mcp-doc)](https://smithery.ai/proto/@MeterLong/mcp-doc)
 [English](README.md) | [中文](README_ZH.md)
 
 [![smithery badge](https://smithery.ai/badge/@MeterLong/mcp-doc)](https://smithery.ai/server/@MeterLong/mcp-doc)
@@ -17,7 +18,17 @@ A Docx document processing service based on the FastMCP library, supporting the 
 - **Convenient Editing**: Support for find and replace functionality
 - **Section Editing**: Support for replacing content in specific sections while preserving original formatting and styles
 
-## Installation Dependencies
+## Installation
+
+### Installing via Smithery
+
+To install mcp-doc for Claude Desktop automatically via [Smithery](https://smithery.ai/proto/@MeterLong/mcp-doc):
+
+```bash
+npx -y @smithery/cli install @MeterLong/mcp-doc --client claude
+```
+
+### Installation Dependencies
 
 Ensure Python 3.10+ is installed, then install the following dependencies:
 
