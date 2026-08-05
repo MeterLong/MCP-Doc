@@ -1,5 +1,7 @@
 # Docx MCP Service
 
+[![MCP Toplist](https://mcptoplist.com/badge/glama%2FMeterLong%2FMCP-Doc.svg)](https://mcptoplist.com/server/glama%2FMeterLong%2FMCP-Doc)
+
 [English](README.md) | [中文](README_ZH.md)
 
 [![smithery badge](https://smithery.ai/badge/@MeterLong/mcp-doc)](https://smithery.ai/server/@MeterLong/mcp-doc)
