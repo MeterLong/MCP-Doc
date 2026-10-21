@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README_ZH.md)
 
-[![smithery badge](https://smithery.ai/badge/@MeterLong/mcp-doc)](https://smithery.ai/server/@MeterLong/mcp-doc)
+[![Listed on LightNow](https://lightnow.ai/badge/io.github.meterlong/mcp-doc?variant=listed)](https://lightnow.ai/servers/io.github.meterlong/mcp-doc)
 
 A Docx document processing service based on the FastMCP library, supporting the creation, editing, and management of Word documents using AI assistants in Cursor.
 
